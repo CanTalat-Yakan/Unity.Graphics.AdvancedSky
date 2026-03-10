@@ -1,7 +1,14 @@
 fileFormatVersion: 2
-guid: 2c419658ec38e287997cfdb8a126a305
+guid: 3c9181b8b85edfd449ebb8c3d9e6e3d9
 AssemblyDefinitionImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192456
+  packageName: Expanse - Volumetric Skies, Clouds, and Atmospheres in HDRP
+  packageVersion: 1.7.6
+  assetPath: Assets/Expanse/ExpanseAsmDefs.asmdef
+  uploadId: 686208

@@ -1,20 +1,24 @@
 {
   "name": "com.unityessentials.graphics.advancedsky",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Graphics AdvancedSky",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
-  "unityRelease": null,
-  "dependencies": {},
+  "unityRelease": "",
+  "resolutionStrategy": "highestPatch",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "17.5.0",
+    "com.unity.render-pipelines.high-definition": "17.5.0"
+  },
   "keywords": [],
   "author": {
     "name": "Unity Essentials",
-    "email": null,
-    "url": null
+    "email": "",
+    "url": ""
   },
-  "documentationUrl": null,
-  "changelogUrl": null,
-  "licensesUrl": null,
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
   "samples": [],
   "hideInEditor": true
 }
