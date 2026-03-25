@@ -5,10 +5,3 @@ AssemblyDefinitionImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 192456
-  packageName: Expanse - Volumetric Skies, Clouds, and Atmospheres in HDRP
-  packageVersion: 1.7.6
-  assetPath: Assets/Expanse/ExpanseAsmDefs.asmdef
-  uploadId: 686208
